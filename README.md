@@ -20,7 +20,7 @@ In order to achive the project funtionality I wrote the following drivers:
 these drivers can be found in /src forlder
 
 ## 👨‍💻Simulation
-The proteus simulation design can be found in (Design.DSN) file, here is the simulation in action:
+The proteus simulation design can be found in (design.pdsprj) file, here is the simulation in action:
 
 
 https://github.com/eslamsamy226/avr-dinosaur-runner-game/assets/128985943/6f3f91cf-6337-4725-946f-0c8ea48bd6ce
