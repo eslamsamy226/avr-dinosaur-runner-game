@@ -1,4 +1,4 @@
-# AVR Dinosaur Runne Game
+# AVR Dinosaur Runner Game
 This project is an implementation of Google Chorme's [Dinosaur Game](#https://en.wikipedia.org/wiki/Dinosaur_Game) using the AVR archticture, one of the key features of this project is the
 random generation of obstacles, I managed to implement this feature by using a strurct where I kept track of the obstacle location relative to the playable character and whether it's
 active or not, I can this change the active status based on a randomly generated number from C's rand() function.
