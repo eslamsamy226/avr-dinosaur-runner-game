@@ -7,7 +7,7 @@ active or not, I can this change the active status based on a randomly generated
  The following components have been used:
  * ATMEGA32 MCU
  * Buzzer
- * Bush buttons
+ * Push buttons
  * 2*16 LCD
 
 ## 🛠️Drivers
@@ -21,7 +21,6 @@ these drivers can be found in /src forlder
 
 ## 👨‍💻Simulation
 The proteus simulation design can be found in (design.pdsprj) file, here is the simulation in action:
-
 
 https://github.com/eslamsamy226/avr-dinosaur-runner-game/assets/128985943/6f3f91cf-6337-4725-946f-0c8ea48bd6ce
 
